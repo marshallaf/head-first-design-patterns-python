@@ -7,6 +7,7 @@ Collection of the code examples from _Head First Design Patterns_ (2004), transl
 * Chapter 2 - Observer Pattern
   * Weather Station
 * Chapter 3 - Decorator Pattern
+  * Starbuzz Coffee
 * Chapter 4 - Factory Pattern
 * Chapter 5 - Singleton Pattern
 * Chapter 6 - Command Pattern
