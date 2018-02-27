@@ -8,6 +8,7 @@ Collection of the code examples from _Head First Design Patterns_ (2004), transl
   * Weather Station
 * Chapter 3 - Decorator Pattern
   * Starbuzz Coffee
+  * Java IO Decorator
 * Chapter 4 - Factory Pattern
 * Chapter 5 - Singleton Pattern
 * Chapter 6 - Command Pattern
