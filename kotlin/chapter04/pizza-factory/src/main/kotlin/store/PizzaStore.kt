@@ -1,8 +1,10 @@
 package store
 
+import ingredients.IngredientFactory
 import pizza.Pizza
 
 abstract class PizzaStore {
+    abstract val ingredientFactory: IngredientFactory
 
     fun orderPizza(type: String): Pizza {
         val pizza = createPizza(type) ?: throw NullPointerException()
